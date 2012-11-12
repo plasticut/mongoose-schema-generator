@@ -1,0 +1,13 @@
+{
+	"connection": {
+		"host": "server",
+		"user": "root",
+		"password": "",
+		"port": 3306,
+		"debug": false
+	},
+	"database": "information_schema",
+	"output": {
+		"folder": "./models"
+	}
+}

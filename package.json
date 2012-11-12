@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "Plasticut"
+  },
+  "name": "mongoose-schema-generator",
+  "description": "Mongoose schema generator from the MySQL database.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plasticut/mongoose-schema-generator.git"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= v0.6.0"
+  },
+  "dependencies": {
+    "mysql": ">= 2.0.0",
+    "ejs": ">=0.8.3"
+  },
+  "devDependencies": {
+    "mysql": ">= 2.0.0",
+    "ejs": ">=0.8.3"
+  },
+  "readme": ""
+}
